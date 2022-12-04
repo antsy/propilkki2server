@@ -3,6 +3,7 @@
 ## Setup and run
 
 Edit `pp2host.conf` -file to setup your passwords.
+
 Edit `autohost.ini` -file to setup your fishing settings and lakes and stuff.
 
 Build image:
@@ -27,8 +28,12 @@ Nifty way to debug failed startups is to add `sleep TIME` -command at the end of
 
 ## Additional information
 
-Commands which can be used by administrator inside the game.
+Commands which can be used by administrator inside the game:
 
 http://pp2.propilkki.net/komennot/
+
+How to join a network game:
+
+http://propilkki.net/pp2opas/index.php?sivu=liityvp
 
 ProPilkki server also has some http administrator panel which should respond from http://localhost:4500/Admin.html
