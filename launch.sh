@@ -1,7 +1,7 @@
 # read ini file into variables
 . /etc/pp2host/pp2host.conf
 
-# The important secret -start -argument
+# The important undocumented -start -argument
 ARGS="-start"
 
 if [ "$PUBLIC" = "no" ]; then
